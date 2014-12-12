@@ -8,9 +8,9 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 92.0, 44.0, 1451.0, 925.0 ],
+		"rect" : [ 0.0, 45.0, 679.0, 610.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -1657,41 +1657,41 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-30" : [ "live.gain~", "live.gain~", 0 ],
-			"obj-203::obj-173" : [ "live.gain~[6]", "live.gain~[6]", 0 ]
+			"obj-203::obj-173" : [ "live.gain~[6]", "live.gain~[6]", 0 ],
+			"obj-30" : [ "live.gain~", "live.gain~", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "pan2.maxpat",
 				"bootpath" : "/Applications/Max 6.1/examples/spatialization/panning/lib",
-				"patcherrelativepath" : "../../../../../../../Applications/Max 6.1/examples/spatialization/panning/lib",
+				"patcherrelativepath" : "../../../../../Applications/Max 6.1/examples/spatialization/panning/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Delay_Feed.maxpat",
-				"bootpath" : "/Users/mda251admin/Desktop/Will_SS/Desktop/PerformWith/NewInstrument",
+				"bootpath" : "/Users/wwconlin/Desktop/Desktop/EIS",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "BiQuad_Filter.maxpat",
-				"bootpath" : "/Users/mda251admin/Desktop/Will_SS/Desktop/PerformWith/NewInstrument",
+				"bootpath" : "/Users/wwconlin/Desktop/Desktop/EIS",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Comb_Filter.maxpat",
-				"bootpath" : "/Users/mda251admin/Desktop/Will_SS/Desktop/PerformWith/NewInstrument",
+				"bootpath" : "/Users/wwconlin/Desktop/Desktop/EIS",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Range_Expander.maxpat",
-				"bootpath" : "/Users/mda251admin/Desktop/Will_SS/Desktop/PerformWith/NewInstrument",
+				"bootpath" : "/Users/wwconlin/Desktop/Desktop/EIS",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -1699,7 +1699,7 @@
 , 			{
 				"name" : "gizmo_loadme.maxpat",
 				"bootpath" : "/Applications/Max 6.1/Cycling '74/msp-help",
-				"patcherrelativepath" : "../../../../../../../Applications/Max 6.1/Cycling '74/msp-help",
+				"patcherrelativepath" : "../../../../../Applications/Max 6.1/Cycling '74/msp-help",
 				"type" : "JSON",
 				"implicit" : 1
 			}
